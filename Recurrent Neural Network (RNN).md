@@ -1,5 +1,5 @@
- Slot Filling Problem: 
-  问题简述：比如自动订票系统中输入：买一张7月1日飞往台北的机票 (arrive Taibei on July 1st)；买一张7月1日离开台北的机票 (leave Taibei 鸥鸟July 1st).
+Slot Filling Problem: 
+  问题简述：比如自动订票系统中输入：买一张7月1日飞往台北的机票 (arrive Taibei on July 1st)；买一张7月1日离开台北的机票 (leave Taibei on July 1st).
   Def: slot位置，e.g. 台北是一个城市，属于一个slot城市， 01/07/2019是一个日期，属于另一个slot日期
   Solve: Feedforward network: 
     Input: a word (Each word is represented as a vector)
